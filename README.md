@@ -10,6 +10,6 @@ I used BigQuery to analyze the data with SQL queries. You can find the queries I
 The graphs and my analysis of each, as well as my final business recommendations, can be found in the jupyter notebook.
 
 # Results
-- Sign customers to longer-term contracts
+- Sign customers to longer-term contracts, to decrease churn rate by over 30 percentage points
 - Investigate electronic check payment method to find why more customers are being churned than other payment types. Ask those customers for feedback
 - Consider capping monthly charges so they are prohibatively expensive
